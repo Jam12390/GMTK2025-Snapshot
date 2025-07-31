@@ -1,0 +1,23 @@
+{
+    "location": {
+        "layer": 1,
+        "fragmentID": 0,
+        "xCoord": 0,
+        "yCoord": 0
+    },
+    "inventory": [],
+    "inventorySlots": 9,
+    "playerStats": {
+        "spd": 100,
+        "jmpHeight": 100,
+        "cameraStunSeconds": 4,
+        "cameraStunAreaX": 250,
+        "cameraStunAreaY": 100,
+        "stunnedFragmentID": -1
+    },
+    "unlocks": {
+        "web": false,
+        "fragmentStun": false,
+        "rewind": false
+    }
+}
