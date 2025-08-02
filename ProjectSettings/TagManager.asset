@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 3
   tags:
   - floor
+  - wall
+  - rWall
+  - lWall
   layers:
   - Default
   - TransparentFX
@@ -39,6 +42,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: UI
+    uniqueID: 3671778773
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
